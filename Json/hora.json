@@ -1,0 +1,400 @@
+
+{
+    "@lang": "",
+    "informaltable": {
+       "@frame": "all",
+       "tgroup": {
+          "@cols": "3",
+          "colspec": [
+             {
+                "@colnum": "1",
+                "@colname": "c1"
+             },
+             {
+                "@colnum": "2",
+                "@colname": "c2"
+             },
+             {
+                "@colnum": "3",
+                "@colname": "c3"
+             }
+          ],
+          "tbody": [
+             [
+                {
+                   "para": {
+                      "note": {
+                         "remark": "HTML: <meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\">"
+                      },
+                      "#text": "HORA"
+                   }
+                },
+                {
+                   "para": "LUNES"
+                },
+                {
+                   "para": "MARTES"
+                },
+                {
+                   "para": "MIERCOLES"
+                },
+                {
+                   "para": "JUEVES"
+                },
+                {
+                   "para": "VIERNES"
+                },
+                {
+                   "para": "SABADO"
+                }
+             ],
+             [
+                {
+                   "para": "7 - 8"
+                },
+                {
+                   "para": "Metodología de la Programación 1ºB (TIC)D5 - 205"
+                },
+                {
+                   "para": "Metodología de la Programación1ºI (TIC)D5 - 210"
+                },
+                {
+                   "para": "Metodología de la Programación 1ºB (TIC)D5 - 205"
+                },
+                {
+                   "para": "Metodología de la Programación1ºI (TIC)D5 - 210"
+                },
+                {
+                   "para": "Metodología de la Programación 1ºB (TIC)D5 - 205"
+                },
+                {
+                   "para": " "
+                }
+             ],
+             [
+                {
+                   "para": "8 - 9"
+                },
+                {
+                   "para": "Metodología de la Programación 1ºB (TIC)D5 - 205"
+                },
+                {
+                   "para": "Metodología de la Programación1ºI (TIC)D5 - 210"
+                },
+                {
+                   "para": "Metodología de la Programación 1ºB (TIC)D5 - 205"
+                },
+                {
+                   "para": "Metodología de la Programación1ºI (TIC)D5 - 210"
+                },
+                {
+                   "para": "Metodología de la Programación1ºI (TIC)D5 - 210"
+                },
+                {
+                   "para": " "
+                }
+             ],
+             [
+                {
+                   "para": "9 - 10"
+                },
+                {
+                   "para": "Actividad de Apoyo Proyecto Investigación"
+                },
+                {
+                   "para": "Actividad de Apoyo Proyecto Investigación"
+                },
+                {
+                   "para": "Metodología de la Programación1ºJ (TIC)D5 - 113"
+                },
+                {
+                   "para": "Actividad de Apoyo Proyecto Investigación"
+                },
+                {
+                   "para": "Actividad de Apoyo Apoyo administrativo"
+                },
+                {
+                   "para": " "
+                }
+             ],
+             [
+                {
+                   "para": "10 - 11"
+                },
+                {
+                   "para": "Metodología de la Programación1ºJ (TIC)D5 - 113"
+                },
+                {
+                   "para": "Actividad de Apoyo Proyecto Investigación"
+                },
+                {
+                   "para": "Metodología de la Programación1ºJ (TIC)D5 - 113"
+                },
+                {
+                   "para": "Actividad de Apoyo Proyecto Investigación"
+                },
+                {
+                   "para": "Actividad de Apoyo Apoyo administrativo"
+                },
+                {
+                   "para": " "
+                }
+             ],
+             [
+                {
+                   "para": "11 - 12"
+                },
+                {
+                   "para": "Metodología de la Programación1ºJ (TIC)D5 - 113"
+                },
+                {
+                   "para": "Actividad de Apoyo Proyecto Investigación"
+                },
+                {
+                   "para": "Actividad de Apoyo Proyecto Investigación"
+                },
+                {
+                   "para": "Actividad de Apoyo Proyecto Investigación"
+                },
+                {
+                   "para": "Actividad de Apoyo Asesoría académica"
+                },
+                {
+                   "para": " "
+                }
+             ],
+             [
+                {
+                   "para": "12 - 13"
+                },
+                {
+                   "para": "Actividad de Apoyo Coordinación de académia"
+                },
+                {
+                   "para": "Actividad de Apoyo Coordinación de académia"
+                },
+                {
+                   "para": "Actividad de Apoyo Proyecto Investigación"
+                },
+                {
+                   "para": "Actividad de Apoyo Proyecto Investigación"
+                },
+                {
+                   "para": "Actividad de Apoyo Preparación de clase"
+                },
+                {
+                   "para": " "
+                }
+             ],
+             [
+                {
+                   "para": "13 - 14"
+                },
+                {
+                   "para": "Actividad de Apoyo Tutorías"
+                },
+                {
+                   "para": "Actividad de Apoyo Tutorías"
+                },
+                {
+                   "para": "Actividad de Apoyo Tutorías"
+                },
+                {
+                   "para": "Actividad de Apoyo Preparación de clase"
+                },
+                {
+                   "para": "Metodología de la Programación1ºJ (TIC)D5 - 113"
+                },
+                {
+                   "para": " "
+                }
+             ],
+             [
+                {
+                   "para": "14 - 15"
+                },
+                {
+                   "para": "Actividad de Apoyo Asesoría académica"
+                },
+                {
+                   "para": "Actividad de Apoyo Asesoría académica"
+                },
+                {
+                   "para": "Actividad de Apoyo Apoyo académico"
+                },
+                {
+                   "para": "Actividad de Apoyo Apoyo académico"
+                },
+                {
+                   "para": "Actividad de Apoyo Apoyo académico"
+                },
+                {
+                   "para": " "
+                }
+             ],
+             [
+                {
+                   "para": "15 - 16"
+                },
+                {
+                   "para": " "
+                },
+                {
+                   "para": " "
+                },
+                {
+                   "para": " "
+                },
+                {
+                   "para": " "
+                },
+                {
+                   "para": " "
+                },
+                {
+                   "para": " "
+                }
+             ],
+             [
+                {
+                   "para": "16 - 17"
+                },
+                {
+                   "para": " "
+                },
+                {
+                   "para": " "
+                },
+                {
+                   "para": " "
+                },
+                {
+                   "para": " "
+                },
+                {
+                   "para": " "
+                },
+                {
+                   "para": " "
+                }
+             ],
+             [
+                {
+                   "para": "17 - 18"
+                },
+                {
+                   "para": " "
+                },
+                {
+                   "para": " "
+                },
+                {
+                   "para": " "
+                },
+                {
+                   "para": " "
+                },
+                {
+                   "para": " "
+                },
+                {
+                   "para": " "
+                }
+             ],
+             [
+                {
+                   "para": "18 - 19"
+                },
+                {
+                   "para": " "
+                },
+                {
+                   "para": " "
+                },
+                {
+                   "para": " "
+                },
+                {
+                   "para": " "
+                },
+                {
+                   "para": " "
+                },
+                {
+                   "para": " "
+                }
+             ],
+             [
+                {
+                   "para": "19 - 20"
+                },
+                {
+                   "para": " "
+                },
+                {
+                   "para": " "
+                },
+                {
+                   "para": " "
+                },
+                {
+                   "para": " "
+                },
+                {
+                   "para": " "
+                },
+                {
+                   "para": " "
+                }
+             ],
+             [
+                {
+                   "para": "20 - 21"
+                },
+                {
+                   "para": " "
+                },
+                {
+                   "para": " "
+                },
+                {
+                   "para": " "
+                },
+                {
+                   "para": " "
+                },
+                {
+                   "para": " "
+                },
+                {
+                   "para": " "
+                }
+             ],
+             [
+                {
+                   "para": "21 - 22"
+                },
+                {
+                   "para": " "
+                },
+                {
+                   "para": " "
+                },
+                {
+                   "para": " "
+                },
+                {
+                   "para": " "
+                },
+                {
+                   "para": " "
+                },
+                {
+                   "para": " "
+                }
+             ]
+          ]
+       }
+    },
+    "para": []
+ }
