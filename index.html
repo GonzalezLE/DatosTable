@@ -11,13 +11,11 @@
 </head>
 
 <body>
+    
     <input type="file" id="file-input" />
     <h3>Contenido del archivo:</h3>
-    <pre id="contenido-archivo"></pre>
     <br>
     <p id="luis"></p>
-
-
     <div class="card">
         <div class="card-header">
           <h3 class="card-title text-center"></h3>
@@ -175,15 +173,17 @@
 
           </table>
         </div>
-      </div>
+    </div>
+    <pre id="contenido-archivo"></pre>
+    <div id="viewJson"></div>
     <!--
     convertir HTML -> XML https://onlineconvertfree.com/es/convert-format/html-to-xml/
     convertir XML -> Json https://www.freeformatter.com/xml-to-json-converter.html#ad-output
-    --><script src="./js/jquery.min.js"></script>
+    -->
+    <script src="./js/jquery.min.js"></script>
     <script src="./js/controller.js"></script>
     <script src="./js/jquery.dataTables.js"></script>
     <script src="./js/dataTables.bootstrap4.js"></script>
-    
     <script>
         $(function () {
           $("#example1").DataTable();      
